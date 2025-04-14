@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: tu_usuario/myapp:latest
+          image: guillemetal/myapp:latest
           ports:
             - containerPort: 3000
